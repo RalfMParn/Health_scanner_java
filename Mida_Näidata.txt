@@ -1,0 +1,27 @@
+01. Milline on kõige vanem kuupäev?
+02. Milline on kõige uuem kuupäev?
+03. Milliseid kuupäevi (DD.MM.YYYY) on topelt. Päev, kuu ja aasta peab sama olema (näiteks 22.11.2021).
+04. Milline on kõige varesem kellaaeg?
+05. Milline on kõige hilisem kellaaeg?
+06. Mitu kirjet on kokku? Välja arvatud vigased read. (vigane on kui Body fat kuni lõpuni on 0.0 või tühi väärtus)
+07. Mitu kirjet on kokku? Kõik read.
+08. Milline on väikseim kaal?
+09. Milline on suurim kaal?
+10. Mis on keskmine kaal?
+11. Sinu enda küsimus ja vastus.
+12. Sinu enda küsimus ja vastus.
+
+Vastuseid näita kujul:
+Kahekohaline järjekorranumber punkt tühik ja vastus (arv, kuupäev, kellaaeg) ilma lisa tekstita.
+01. DD.MM.YYYY, kuupäeva vorming
+02. DD.MM.YYYY, kuupäeva vorming
+03. DD.MM.YYYY, DD.MM.YYYY (neid võib olla mitu. Näita kõik kuupäevad ja eralda komaga)
+04. HH:MM, kus HH on tunnid ja MM on minutid
+05. HH:MM, kus HH on tunnid ja MM on minutid
+06. X, kus X on üks arv
+07. X, kus X on üks arv
+08. X.Y, kus X on täiskilod ja Y on grammid
+09. X.Y, kus X on täiskilod ja Y on grammid
+10. X.YYYYYY, kus X on täiskilod ja Y on grammid ja vastust EI ÜMARDA
+11.
+12.
